@@ -76,7 +76,7 @@ const LoginForm: React.FC = () => {
                  height={150} // Desired height
                  priority    // Optional: load the image with high priority
                />
-            <h2 className="mt-3 text-2xl font-bold text-black-900">Dr Tedla Specialized Dental Clinic</h2>
+            <h2 className="mt-3 text-2xl font-bold text-black-900"> Dental Clinic</h2>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-4 mt-6">
